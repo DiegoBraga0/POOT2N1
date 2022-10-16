@@ -1,14 +1,14 @@
 package Main;
 
-import Variaveis.*;
+import Calculo.*;
 
 public class Main {
     
     public static void main(String[] args) {
         
-        Var V = new Var();
+        Baskara B = new Baskara();
         
-        V.baskara();
+        B.baskara();
        
     }
     
