@@ -1,10 +1,15 @@
 package Main;
 
+import Calculo.*;
+
 public class Main {
-
+    
+				
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+								
+		Par P = new Par();
+								
+		P.Verification();
 	}
-
+				
 }
