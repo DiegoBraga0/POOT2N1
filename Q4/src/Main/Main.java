@@ -1,10 +1,14 @@
 package Main;
 
+import Data.*;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+        
+        Day D = new Day();
+        
+        D.DataAtual();	 
+	}	
+    
 }
