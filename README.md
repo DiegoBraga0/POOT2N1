@@ -1,3 +1,6 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DiegoBraga0/POO_T2N1) 
+![GitHub language count](https://img.shields.io/github/languages/count/DiegoBraga0/POO_T2N1) 
+
 <h1> POO_T2N1 </h1> 
  Repositório reservado para questões referentes a 2ª avaliação de Programação Orientada a Objetos (POO). 
   
