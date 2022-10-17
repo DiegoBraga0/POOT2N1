@@ -1,10 +1,10 @@
-<h1> POOT2N1 </h1> 
+<h1> POO_T2N1 </h1> 
  Repositório reservado para questões referentes a 2ª avaliação de Programação Orientada a Objetos (POO). 
   
  <h2> Equipe </h2> 
  Integrantes: <br> 
- <a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com/DiegoBraga0" >Diego Braga Rodrigues </a> e<br> 
- <a title = "Você será direcionado ao perfil nessa mesma aba" href = "">Fabio Barros de Sousa Neto</a><br> 
+ Diego Braga Rodrigues e<br> 
+ Fabio Barros de Sousa Neto<br> 
  P3 do Técnico Integrado em Informática no semestre 2022.2 <br> 
  IFCE Campus Fortaleza.<br> 
   
